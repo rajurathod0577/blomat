@@ -1,3 +1,6 @@
+# Blogging Website
+### Resposive Blogging website created by completely using `ReactJS` & `MaterialUI`.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
