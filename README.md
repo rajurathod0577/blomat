@@ -1,5 +1,5 @@
 # Blogging Website
-### Simple Resposive Blogging website created by completely using `ReactJS` & `MaterialUI`.
+### Resposive Blogging website created by completely using `ReactJS` & `MaterialUI`.
 Single Page Website
 
 # Getting Started with Create React App
