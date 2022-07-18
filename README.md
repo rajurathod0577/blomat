@@ -1,4 +1,4 @@
-# Blogging Website
+# BloMat
 ### Resposive Blogging website created by completely using `ReactJS` & `MaterialUI`.
 
 ## `Preview` : [BloMat](https://blomat0577.netlify.app/)
